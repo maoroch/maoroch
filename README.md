@@ -1,16 +1,18 @@
-## Hi there 👋
+### 👋 Hi there, I'm Ilyas
 
-<!--
-**maoroch/maoroch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer** passionate about building scalable web applications.
 
-Here are some ideas to get you started:
+🔧 **Tech stack:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend**  
+`TypeScript` ·  `Next.js` · `React` · `Node.js`
+
+**Backend**  
+`Node.js` · `Express.js` ·  `Python` · `Flask` · `FastAPI`
+
+**Database**  
+`PostgreSQL` · `MySQL` · `Supabase` · `MongoDB`
+
+📫 Reach me: [Telegram](https://t.me/Ilyas_ones)
+
+⚡ Fun fact: Instead of bugs, I find unconventional solutions — coffee is a must.
