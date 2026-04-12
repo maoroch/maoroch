@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&weight=500&size=26&pause=1000&color=FFB7C5&center=true&width=500&lines=🌸+Konnichiwa%2C+I'm+Ilyas+🌸;フルスタックエンジニア;Full+Stack+Developer" />
+  <img src="images/icon.jpeg" />
 </div>
 
 <p align="center">
