@@ -1,41 +1,51 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&weight=500&size=26&pause=1000&color=FFB7C5&center=true&width=500&lines=🌸+Konnichiwa%2C+I'm+Ilyas+🌸;フルスタックエンジニア;Full+Stack+Developer" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=180&text=ILYAS&fontColor=f0ece6&fontSize=72&fontAlignY=55&desc=一歩一歩%20·%20Full%20Stack%20Developer&descColor=c0392b&descSize=14&descAlignY=78" width="100%"/>
+
 </div>
 
-<p align="center">
-  <i>「魂を込めてコードを書く」</i><br>
-  <i>(Writing code with soul)</i>
-</p>
+```
+  [ KZ ]   TypeScript · Next.js · Node.js · Python
+```
 
 ---
 
-## 🎋 技術スタック — Tech Stack
+### `01` — Identity
 
-| カテゴリ | 技術 |
-|:---:|---|
-| **Frontend**  | ![TypeScript](https://img.shields.io/badge/TypeScript-2d2d2d?style=flat-square&logo=typescript&logoColor=FFB7C5) ![Next.js](https://img.shields.io/badge/Next.js-2d2d2d?style=flat-square&logo=next.js&logoColor=FFB7C5) ![React](https://img.shields.io/badge/React-2d2d2d?style=flat-square&logo=react&logoColor=FFB7C5) |
-| **Backend**   | ![Node.js](https://img.shields.io/badge/Node.js-2d2d2d?style=flat-square&logo=node.js&logoColor=FFB7C5) ![Express](https://img.shields.io/badge/Express-2d2d2d?style=flat-square&logo=express&logoColor=FFB7C5) ![Python](https://img.shields.io/badge/Python-2d2d2d?style=flat-square&logo=python&logoColor=FFB7C5) ![Flask](https://img.shields.io/badge/Flask-2d2d2d?style=flat-square&logo=flask&logoColor=FFB7C5) ![FastAPI](https://img.shields.io/badge/FastAPI-2d2d2d?style=flat-square&logo=fastapi&logoColor=FFB7C5) |
-| **Database**  | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2d2d2d?style=flat-square&logo=postgresql&logoColor=FFB7C5) ![MySQL](https://img.shields.io/badge/MySQL-2d2d2d?style=flat-square&logo=mysql&logoColor=FFB7C5) ![Supabase](https://img.shields.io/badge/Supabase-2d2d2d?style=flat-square&logo=supabase&logoColor=FFB7C5) ![MongoDB](https://img.shields.io/badge/MongoDB-2d2d2d?style=flat-square&logo=mongodb&logoColor=FFB7C5) |
-
----
-
-## 🏮 連絡先 — Connect
-
-<p align="center">
-  <a href="https://t.me/Ilyas_ones">
-    <img src="https://img.shields.io/badge/Telegram-2d2d2d?style=for-the-badge&logo=telegram&logoColor=FFB7C5" />
-  </a>
-</p>
+```typescript
+const ilyas = {
+  role:   "Full Stack Developer",
+  focus:  "scalable web applications",
+  stack:  ["TypeScript", "Next.js", "React", "Node.js"],
+  apis:   ["Express", "FastAPI", "Flask"],
+  db:     ["PostgreSQL", "MongoDB", "Supabase", "MySQL"],
+};
+```
 
 ---
 
-## 🍵 豆知識 — Fun Fact
+### `02` — Stack
 
-<p align="center">
-  <i>✧ バグではなく、型破りな解決策を見つけます ✧</i><br>
-  <i>(Instead of bugs, I find unconventional solutions — coffee is a must.)</i>
-</p>
+| layer      | tech                                        |
+|------------|---------------------------------------------|
+| frontend   | `TypeScript` · `Next.js` · `React`          |
+| backend    | `Node.js` · `Express` · `FastAPI` · `Flask` |
+| database   | `PostgreSQL` · `MySQL` · `Supabase` · `MongoDB` |
 
-<p align="center">
-  🌸 一期一会 — every bug is a one-time encounter 🌸
-</p>
+---
+
+### `03` — Reach me
+
+[![Telegram](https://img.shields.io/badge/t.me%2FIlyas__ones-c0392b?style=flat-square&logo=telegram&logoColor=white&labelColor=0a0a0a)](https://t.me/Ilyas_ones)
+
+---
+
+<div align="center">
+
+```
+// fun fact
+```
+
+*Instead of bugs, I find unconventional solutions — **coffee is a must.***
+
+</div>
