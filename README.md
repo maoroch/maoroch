@@ -20,7 +20,7 @@
 
 ---
 
-## 🏮 Connect
+## 🏮 Links
 
 <p align="center">
   <a href="https://t.me/Ilyas_ones">
