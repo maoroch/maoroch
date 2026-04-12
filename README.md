@@ -5,7 +5,7 @@
 🔧 **Tech stack:**
 
 **Frontend**  
-`TypeScript` ·  `Next.js` · `React` · `Node.js`
+`TypeScript` ·  `Next.js` · `React`
 
 **Backend**  
 `Node.js` · `Express.js` ·  `Python` · `Flask` · `FastAPI`
