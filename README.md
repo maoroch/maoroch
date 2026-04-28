@@ -20,16 +20,6 @@
 
 ---
 
-## 🏮 Links
-
-<p align="center">
-  <a href="https://t.me/Ilyas_ones">
-    <img src="https://img.shields.io/badge/Telegram-2d2d2d?style=for-the-badge&logo=telegram&logoColor=FF8D78" />
-  </a>
-</p>
-
----
-
 ## 🍵 Fun Fact
 
 <p align="center">
