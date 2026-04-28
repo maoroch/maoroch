@@ -36,8 +36,6 @@
 
 ## 🍵 Fun Fact
 
-## 🍵 Fun Fact
-
 <p align="center">
   <i>✧ バグではなく、型破りな解決策を見つけます ✧</i><br>
   <i>(Instead of bugs, I find unconventional solutions — coffee is a must.)</i>
