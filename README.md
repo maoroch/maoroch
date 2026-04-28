@@ -23,8 +23,6 @@
 ## 🏮 Links
 
 <p align="center">
-    <a style="color: none" href="https://ilyas-salimov.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2d2d2d?style=for-the-badge&logo=vercel&logoColor=FF8D78"  /></a>
-  
   <a href="https://t.me/Ilyas_ones">
     <img src="https://img.shields.io/badge/Telegram-2d2d2d?style=for-the-badge&logo=telegram&logoColor=FF8D78" />
   </a>
