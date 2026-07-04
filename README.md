@@ -1,15 +1,3 @@
-
-<div align="center">
-  <img src="images/icon1.gif" width="500px" />
-</div>
-
-<p align="center">
-  <i>「魂を込めてコードを書く」</i><br>
-  <i>(Writing code with soul)</i>
-</p>
-
----
-
 ## ☕ Tech Stack
 
 |  |  |
