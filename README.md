@@ -26,7 +26,8 @@ Three areas where I go deep instead of wide:
 |---|---|---|
 | **`01`** | [Logistics Management Platform](https://www.mylogistics.kz/) | 3-role CRM · real-time SSE · dynamic pricing engine |
 | **`02`** | [ZereAI — AI University Assistant](https://github.com/maoroch/AI-powered_assistant) | multilingual vector search · Groq streaming · Supabase |
-| **`03`** | [Headless Commerce Platform](https://github.com/maoroch/headless-commerce-platform) | Next.js 16 · WooCommerce · BFF · SSR/ISR/SSG |
+| **`03`** | [Headless Commerce Platform](https://github.com/maoroch/headless-commerce-platform) | Next.js 16 · WooCommerce · BFF · SSR/ISR/SSG
+| **`04`** | [EduTech LMS](https://github.com/Kodoatorie/lms_platform) | Stripe + idempotent webhooks · MinIO · trilingual · Docker |
 
 *Full breakdown of each — the diagnosis, the architecture decisions, and why — is linked above.*
 
