@@ -1,57 +1,48 @@
-<div align="center">
+# Founding Full-Stack & AI Systems Architect
 
-# Full-Stack Developer — CRM, AI Pipelines & Headless Commerce
+`DIAGNOSE → ARCHITECT → SHIP · Production systems, not toy wrappers`
 
-<code>DIAGNOSE → BUILD</code> · production systems, not prototypes
-
-</div>
-
-<br>
-
-I build systems that survive real traffic, real edge cases, and real users doing things you didn't expect — not just demos.
-
-Three areas where I go deep instead of wide:
-
-- **CRM & operational platforms** — multi-role access, real-time data (SSE/WebSocket), workflows that mirror how the business actually runs
-- **AI-powered products** — full pipelines: embeddings, vector search, LLM streaming. Not a prompt wrapped in a chat UI
-- **Headless e-commerce** — BFF architecture, JWT auth, SSR/ISR/SSG, the edge cases that break most Next.js + WooCommerce builds
-
-`Upwork: Rising Talent · 100% Job Success · 4×5-star reviews`
-
-<br>
-
-## ▸ Case Files
-
-| | | |
-|---|---|---|
-| **`01`** | [Logistics Management Platform](https://www.mylogistics.kz/) | 3-role CRM · real-time SSE · dynamic pricing engine |
-| **`02`** | [ZereAI — AI University Assistant](https://github.com/maoroch/AI-powered_assistant) | multilingual vector search · Groq streaming · Supabase |
-| **`03`** | [Headless Commerce Platform](https://github.com/maoroch/headless-commerce-platform) | Next.js 16 · WooCommerce · BFF · SSR/ISR/SSG
-| **`04`** | [EduTech LMS](https://github.com/Kodoatorie/lms_platform) | Stripe + idempotent webhooks · MinIO · trilingual · Docker |
-
-*Full breakdown of each — the diagnosis, the architecture decisions, and why — is linked above.*
-
-<br>
-
-## ▸ Tech Stack
-
-|  |  |
-|:---:|---|
-| **Frontend**  | ![TypeScript](https://img.shields.io/badge/TypeScript-2d2d2d?style=flat-square&logo=typescript&logoColor=C98A3E) ![Next.js](https://img.shields.io/badge/Next.js-2d2d2d?style=flat-square&logo=next.js&logoColor=C98A3E) ![React](https://img.shields.io/badge/React-2d2d2d?style=flat-square&logo=react&logoColor=C98A3E) |
-| **Backend**   | ![Node.js](https://img.shields.io/badge/Node.js-2d2d2d?style=flat-square&logo=node.js&logoColor=C98A3E) ![Express](https://img.shields.io/badge/Express-2d2d2d?style=flat-square&logo=express&logoColor=C98A3E) ![Python](https://img.shields.io/badge/Python-2d2d2d?style=flat-square&logo=python&logoColor=C98A3E) ![Flask](https://img.shields.io/badge/Flask-2d2d2d?style=flat-square&logo=flask&logoColor=C98A3E) ![FastAPI](https://img.shields.io/badge/FastAPI-2d2d2d?style=flat-square&logo=fastapi&logoColor=C98A3E) |
-| **Database**  | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2d2d2d?style=flat-square&logo=postgresql&logoColor=C98A3E) ![MySQL](https://img.shields.io/badge/MySQL-2d2d2d?style=flat-square&logo=mysql&logoColor=C98A3E) ![Supabase](https://img.shields.io/badge/Supabase-2d2d2d?style=flat-square&logo=supabase&logoColor=C98A3E) ![MongoDB](https://img.shields.io/badge/MongoDB-2d2d2d?style=flat-square&logo=mongodb&logoColor=C98A3E) |
-| **AI / ML**   | ![Groq](https://img.shields.io/badge/Groq-2d2d2d?style=flat-square&logoColor=C98A3E) ![OpenRouter](https://img.shields.io/badge/OpenRouter-2d2d2d?style=flat-square&logoColor=C98A3E) ![Claude Code](https://img.shields.io/badge/Claude_Code-2d2d2d?style=flat-square&logo=anthropic&logoColor=C98A3E) ![Vector Search](https://img.shields.io/badge/Vector_Search-2d2d2d?style=flat-square&logoColor=C98A3E)
-| **Real-time** | ![WebSocket](https://img.shields.io/badge/WebSocket-2d2d2d?style=flat-square&logo=socket.io&logoColor=C98A3E) ![SSE](https://img.shields.io/badge/SSE-2d2d2d?style=flat-square&logoColor=C98A3E) |
-
-
-<br>
+I engineer sub-second Next.js web applications, deterministic AI pipelines with 0% calculation hallucinations, and real-time distributed platforms for Seed & Series A startups.
 
 ---
 
-<div align="center">
+### ⚡️ Production Performance Benchmarks
 
-<code>STATUS: OPEN TO PRODUCTION WORK</code>
+| Metric | Measurement | Engineering Implementation |
+| :--- | :--- | :--- |
+| **0.00%** | Calculation Drift | Isolated Python float sandboxes for covenant audits |
+| **< 300ms** | Real-Time Latency | Distributed Redis Server-Sent Events (SSE) telemetry stream |
+| **< 120ms** | Edge TTFB | Next.js 16 App Router with Edge ISR & Redis caching |
+| **1.65ms** | Local Retrieval | In-memory Okapi BM25 lexical token indexer |
 
-[LinkedIn](https://www.linkedin.com/in/salimovilyass) · [Email](salimovilas46@gmail.com)
+---
 
-</div>
+### 🏛 Featured Case Files
+
+| # | System Architecture | Core Stack & Engine Highlights |
+| :--- | :--- | :--- |
+| **01** | **[FinTech Covenant Audit Engine](https://github.com/maoroch/fintech-compliance-agent)** | `Python 3.11` · `Claude 3.5 Sonnet` · `Okapi BM25` · 0% calculation drift · coordinate-level PDF citations |
+| **02** | **[AI Spatial Transformation Canvas](https://github.com/maoroch/AI-Interior-Designer)** | `Next.js` · `Framer Motion` · 60fps Before/After canvas · async webhook inference queue · Cloudflare R2 |
+| **03** | **Real-Time Logistics ERP Platform** | `Next.js` · `Express.js` · `Supabase PostgreSQL` · 3-tier RBAC (RLS) · sub-300ms SSE live fleet telemetry |
+| **04** | **[Headless High-Performance Commerce](https://github.com/maoroch/headless-commerce-platform)** | `Next.js 16` · `WooCommerce REST API` · BFF architecture · Redis ISR edge caching · <120ms TTFB |
+
+---
+
+### 🛠 Tech Stack
+
+| Domain | Production Tooling |
+| :--- | :--- |
+| **Frontend & UX** | TypeScript, Next.js (App Router), React, Tailwind CSS, Framer Motion, Zod |
+| **Backend & APIs** | Node.js, Express.js, Python (FastAPI), BullMQ, REST / GraphQL |
+| **Data & Isolation** | PostgreSQL, Supabase (Row-Level Security), Redis (Pub/Sub & SSE), SQLite |
+| **AI & LLM Engines** | Claude 3.5 Sonnet API, OpenAI API, Okapi BM25 Indexing, Langfuse, MCP Protocol |
+| **DevOps & Cloud** | Docker, Docker Compose, Cloudflare R2 / Workers, GitHub Actions CI/CD |
+
+---
+
+### 🤝 Availability & Direct Contact
+
+* **Roles:** Founding Engineer (Contract), Fractional Tech Lead, High-Velocity Sprints.
+* **Timezone Overlap:** Full business hours coverage for US (EST/PST) & Europe (CET).
+
+🌐 **[Portfolio & Architecture Breakdowns](https://www.ilyas-ones.com)** · 💼 **[Contra Profile](https://contra.com/ilyas_salimov_j7tpcm02)** · 💬 **[Telegram: @Ilyas_ones](https://t.me/Ilyas_ones)**
