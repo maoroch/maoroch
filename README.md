@@ -22,7 +22,7 @@ I engineer sub-second Next.js web applications, deterministic AI pipelines with 
 | # | System Architecture | Core Stack & Engine Highlights |
 | :--- | :--- | :--- |
 | **01** | **[FinTech Covenant Audit Engine](https://github.com/maoroch/fintech-compliance-agent)** | `Python 3.11` · `Claude 3.5 Sonnet` · `Okapi BM25` · 0% calculation drift · coordinate-level PDF citations |
-| **02** | **[AI Spatial Transformation Canvas](https://github.com/maoroch/AI-Interior-Designer)** | `Next.js` · `Framer Motion` · 60fps Before/After canvas · async webhook inference queue · Cloudflare R2 |
+| **02** | **[Autonomous Spatial CAD & 3D Interior Engine](https://github.com/maoroch/AI-Interior-Designer)** | `Next.js 15` · `Three.js (R3F)` · `FastAPI` · `Shapely 2.0` · Bayesian scale calibration, topological CAD compiler & 53 passing test suites |
 | **03** | **Real-Time Logistics ERP Platform** | `Next.js` · `Express.js` · `Supabase PostgreSQL` · 3-tier RBAC (RLS) · sub-300ms SSE live fleet telemetry |
 | **04** | **[Headless High-Performance Commerce](https://github.com/maoroch/headless-commerce-platform)** | `Next.js 16` · `WooCommerce REST API` · BFF architecture · Redis ISR edge caching · <120ms TTFB |
 
